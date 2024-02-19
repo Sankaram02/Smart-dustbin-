@@ -11,3 +11,4 @@
 
 🔸 Strengthens community bonds through a centralized hub for communication, fostering connection and information-sharing.
 
+![Screenshot (1)](https://github.com/Sankaram02/Smart-dustbin-/assets/119692486/7a80c8c6-95d9-473a-b8db-377f2ddd067f)

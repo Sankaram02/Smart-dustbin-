@@ -10,3 +10,4 @@
 🔹 Enhances safety by minimizing physical contact with the dustbin and simplifies waste disposal for community members.
 
 🔸 Strengthens community bonds through a centralized hub for communication, fostering connection and information-sharing.
+https://github.com/Sankaram02/Smart-dustbin-
